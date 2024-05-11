@@ -3,7 +3,7 @@ import webbrowser
 import pandas as pd 
 import numpy as np 
 import google.generativeai as genai 
-
+# Muito obrigado Alura && Google!
 # Configurando a API key 
 GPPGLE_API_KEY = "Sua_Chave_Aqui" 
 genai.configure(api_key=GPPGLE_API_KEY) 
